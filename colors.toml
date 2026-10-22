@@ -1,0 +1,38 @@
+# Tesla Roadster — cream aluminum / graphite / red and amber light.
+# Inspired by backgrounds/0.jpg through 6.jpg; adapted for dark UI legibility.
+# Neutral shadows stay graphite; warmth belongs to highlights and light accents.
+mode = "dark"
+
+accent = "#b7aa94"
+selection = "#42413f"
+selection_foreground = "#e6ded0"
+muted = "#9e9a92"
+
+background = "#151516"
+dark_background = "#0e0e0f"
+darker_background = "#09090a"
+lighter_background = "#2c2c2d"
+
+foreground = "#c9c3b8"
+dark_foreground = "#aaa396"
+light_foreground = "#ddd5c7"
+bright_foreground = "#eee5d6"
+
+# Light accents: warm taillight red, amber yellow, and illuminated orange.
+red = "#dc655e"
+yellow = "#e8bb75"
+orange = "#e69a68"
+
+# Keep ANSI slot names, but use cream aluminum and red/amber reflections.
+green = "#cfb28a"       # Muted amber / champagne reflection.
+cyan = "#d99470"        # Warm copper-orange light reflection, not cyan.
+blue = "#c29b72"        # Muted amber midtone, not blue or silver-white.
+magenta = "#c48b7b"     # Warm red reflection, no purple or pink cast.
+brown = "#a29584"       # Muted warm-gray aluminum shadow.
+
+bright_red = "#ef8b7e"
+bright_yellow = "#f0cc89"
+bright_green = "#ddbd90"
+bright_cyan = "#ecb18b"
+bright_blue = "#ddba90"
+bright_magenta = "#dfad9b"
